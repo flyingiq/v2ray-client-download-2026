@@ -1,4 +1,4 @@
-> 📅 最后更新：2026-11-09 · 节点与套餐信息实时同步
+> 📅 最后更新：2026-11-12 · 节点与套餐信息实时同步
 
 # 📦 全平台代理客户端下载与配置（2026 持续更新）
 
@@ -6,7 +6,7 @@
 > 全部为官方或可信来源，拒绝捆绑与修改版。
 
 [![Platform](https://img.shields.io/badge/Platform-All-blue)]()
-[![Updated](https://img.shields.io/badge/Updated-2026--11-brightgreen)]()
+[![Updated](https://img.shields.io/badge/Updated-2026--11--12-brightgreen)]()
 [![Safe](https://img.shields.io/badge/Source-Official-success)]()
 
 📖 配套节点与线路推荐：[2026 最新平价稳定机场推荐](https://github.com/flyingiq/airport-recommended-2026)
